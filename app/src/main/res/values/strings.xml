@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Week 7</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="submit">Submit</string>
+    <string name="send_message">Send Message</string>
+    <string name="press_button_to_get_random_password">Press Button to get Random Password</string>
+    <string name="generate_random_password">Generate Random Password</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="number_of_incorrect_attempts">Number of incorrect attempts</string>
+    <string name="num_of_incorrect_attempts">Num of incorrect attempts:</string>
+    <string name="name">Name</string>
 </resources>
